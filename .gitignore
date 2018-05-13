@@ -1,2 +1,4 @@
-resources
+.ipynb_checkpoints/
+compiler/
+resources/
 *.pyc
