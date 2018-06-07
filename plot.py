@@ -6,8 +6,8 @@ import matplotlib.gridspec as gridspec
 from scipy.interpolate import spline
 
 
-def plot_charts(modelLoc):
-  fileObj = open("./" + modelLoc + ".txt", 'r')
+def plot_charts(modelName):
+  fileObj = open("./" + modelName, 'r')
 
   epoch = []
   trainLoss = []
@@ -58,9 +58,9 @@ def plot_charts(modelLoc):
   plt.minorticks_on()
 
   plt.show()
-  plt.savefig("./" + modelLoc + ".png")
+  plt.savefig("./" + modelName + ".png")
 
 
 if __name__ == '__main__':
-  modelLoc = sys.argv[1]
-  plot_charts(modelLoc)
+  modelName = sys.argv[1]
+  plot_charts(modelName)
