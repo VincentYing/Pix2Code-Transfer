@@ -6,9 +6,9 @@ In this project, we’ll teach a neural network how to code a basic HTML and CSS
 
 ## Final Report
 
-![Report](https://github.com/VincentYing/Pix2Code-Transfer/blob/master/231n-project-report.pdf)
+[Report](https://github.com/VincentYing/Pix2Code-Transfer/blob/master/231n-project-report.pdf)
 
-#### A quick overview of the process: 
+## Project Overview: 
 
 1) Give a design image to the trained neural network
 
