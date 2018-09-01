@@ -4,6 +4,9 @@ The field took off last year when Tony Beltramelli introduced the [pix2code pape
 
 In this project, we’ll teach a neural network how to code a basic HTML and CSS website based on a picture of a design mockup. Instead of the standard CNN encoder, we will substitute in a Capsule Network a network architecture created by a team under Geoffrey Hinton. [Paper](https://arxiv.org/abs/1710.09829).
 
+## Final Report
+
+![Report](https://github.com/VincentYing/Pix2Code-Transfer/blob/master/231n-project-report.pdf)
 
 #### A quick overview of the process: 
 
